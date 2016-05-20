@@ -18,3 +18,5 @@ For development, you can use JPM tools to post updated versions to a Firefox bro
 ```
 ./watch.sh
 ```
+
+If you don't want to install/use NodeJS, you can also use `make_firefox.sh` script which will built the extension

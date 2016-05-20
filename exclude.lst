@@ -1,0 +1,9 @@
+make*
+exclude*
+watch*
+UNLICENSE
+.git*
+node_modules*
+output*
+.nvmrc
+*.xpi
